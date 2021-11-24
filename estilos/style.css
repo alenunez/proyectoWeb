@@ -1,0 +1,37 @@
+#cabecera{
+    background-color: #C2C3F3;
+    padding: 2.5rem;
+
+}
+.container{
+    background-color: #EFF0F5;
+}
+
+#pieDePagina{
+    background-color: #C2C3F3;
+    padding: 2.5rem;
+    }
+
+    nav li{
+        display:inline-block;
+        width:10%;
+        padding:0.5rem;
+        background-color:#000;
+        border:1px solid #000;
+        text-align:center;
+        color:#fff;
+        }
+        nav li:hover{
+        background-color:#fff;
+        color:#000;
+        }
+        nav a{
+            text-decoration:none;
+            color:inherit;
+            font-size:14px;
+            } 
+
+p{
+    text-align: justify;
+    padding-right: 2rem;
+}
